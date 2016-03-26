@@ -54,3 +54,9 @@ http://mygirl9.lofter.com/post/1cfc948e_552d0a9       美援馆
 http://blog.csdn.net/wk843620202/article/details/44224813                   如何使用Intent传递对象
 http://lnmp.org/faq/lnmp-vhost-add-howto.html         LNMP 下载教程
 http://www.vpser.net/                                 VPS侦探
+
+
+云服务器不是VPS。 
+vps是把一台物理主机虚拟成多个主机，云主机是把许多台物理主机先融合在一起，形成一个大蛋糕，然后按需切成一块一块的，每块都相互独立。
+
+
