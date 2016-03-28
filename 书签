@@ -69,3 +69,4 @@ http://www.dot.tk/zh/index.html                       TK域名注册    微软�
 https://my.freenom.com/clientarea.php?action=domains          Tk管理
 https://outlook.live.com/owa/?path=/mail/inbox              outlook邮箱
 http://www.myhack58.com/Article/sort099/sort0102/2015/64232.htm            阿里云安装LNMP以及更改网站文件和MySQL数据目
+/usr/local/nginx/conf/nginx.conf       lnmp修改nginx下的默认指向
